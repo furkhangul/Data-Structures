@@ -10,6 +10,7 @@ struct n {
 
 typedef n node;
 
+
 int main()
 {
 	node* root;
