@@ -23,7 +23,6 @@ void add(node* r, int x) {
     r->next->x = x + 10;
     r->next->next = NULL;
 }
-
 int main() {
     node* root = (node*)malloc(sizeof(node));
     root->x = 10;
