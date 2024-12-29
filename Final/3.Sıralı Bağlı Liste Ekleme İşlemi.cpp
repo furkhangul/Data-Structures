@@ -1,7 +1,6 @@
 #include<iostream>
 #include <cstdlib>
 using namespace std;
-
 struct n {
     int x;
     n* next;
